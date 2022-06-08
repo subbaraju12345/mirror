@@ -9,4 +9,7 @@ phases:
       
   post_build:
     commands:
+    artifacts:
+  files:
+    - target/testaiobuc
      
