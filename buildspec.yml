@@ -9,7 +9,9 @@ phases:
       - echo Nothing to do in the pre_build phase...
   build:
     commands:
+      - cd
       - ls
+      
   post_build:
     commands:
       - echo Build completed on `date`
