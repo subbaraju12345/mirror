@@ -5,6 +5,7 @@ phases:
        nodejs: 12
     build:
     commands:
+    - ls
       
   post_build:
     commands:
