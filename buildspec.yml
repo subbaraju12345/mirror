@@ -9,7 +9,7 @@ phases:
       
   post_build:
     commands:
-    artifacts:
-  files:
+  artifacts:
+   files:
     - target/messageUtil-1.0.jar
      
