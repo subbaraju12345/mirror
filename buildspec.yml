@@ -11,5 +11,5 @@ phases:
     commands:
     artifacts:
   files:
-    - target/testaiobuc
+    - target/testaiobuc.zip
      
